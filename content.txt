@@ -1,0 +1,21 @@
+- Class And Object (Example)
+- Class has data/Attribute and Func/Methods
+
+Class : A class is like a blueprint or template for creating objects.
+Object : An object is an instance of a class — a real-world example created from the blueprint.
+Attribute : Color , Brand , Speed
+Methods : Start Engine , Stop Engine
+
+Intervew Question used of constructor
+As it run automatically because of app need database to runthe app so user don't do connection eith db before using it
+
+
+- Why Python is called OOPS
+Python is called an Object-Oriented Programming (OOPs) language because it organizes code into classes and objects and supports
+the four main principles of OOP — Encapsulation, Inheritance, Polymorphism, and Abstraction.
+
+- Advantages of OOPS concept
+    > You can create your own datatype
+    > Code Reusability 
+    > Debugging
+    > Easy To colab
